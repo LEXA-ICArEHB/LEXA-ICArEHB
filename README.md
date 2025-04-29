@@ -1,3 +1,5 @@
+![LEXA_Logo](https://github.com/user-attachments/assets/686c97df-7ebe-4d21-997e-549b2591dca3)
+
 At LEXA, our vision is to advance the understanding of ancient technologies and behaviours 
 through scientific experiments to generate and test archaeological hypotheses. Our work 
 spans both open-air and controlled laboratory conditions to generate reference collections 
